@@ -2,23 +2,20 @@
 ---
 @import 'main';
 
-/* --- My Custom Styles --- */
-/* Add your color and size rules below this line! */
 
 
-/* Changes the color and size of the main paragraph text */
+
 body {
   color: #FFDBDB; 
-  font-size: 18px; /* The default is 16px, so this is a little bigger! */
+  font-size: 20px;
 }
 
-/* Makes the titles of your blog posts bigger and green */
 h1.post-title {
   font-size: 40px;
   color: lightpink;
 }
 
-/* Changes the color of all clickable links */
+
 a {
   color: lightpink;
 }
